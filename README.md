@@ -15,7 +15,7 @@ So you can use this script if you are just interested in detecting errors in doc
 The script can be found in the following file: ***ocr_predict_errors.py***.<br>
 ### Setup ⚙️
 ---
-* Make sure you have python 3.6 on your computer.<br>
+* Make sure you have python 3.6 or above on your computer.<br>
 We recommend using **Anaconda** that can be downloaded in the following link:<br>
 https://www.anaconda.com/products/individual
 
