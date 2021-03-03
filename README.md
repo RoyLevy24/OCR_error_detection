@@ -45,13 +45,13 @@ https://www.zamzar.com/convert/doc-to-docx/<br>
 For you convenience, we provided all the original **DOC** files in **DOCX** format in the project.
 * Run the following command in the terminal:<br>
     ```
-    python ocr_predict_errors.py [path_of_you_docx_folder]
+    python ocr_predict_errors.py [path_of_your_docx_folder]
     ```
     **Note**: This process may take a while depending on the amount of files you wish to predict errors upon.<br><br>
     The output will be given in the project directory in the following path: **./text_files/[running_timestamp]** (where [running_timestamp] is the time and date you run the script).<br><br>
     Alternatively, you can append a custom name to the output folder by providing the optional argument as such:
     ```
-    python ocr_predict_errors.py [path_of_you_docx_folder] -sn [your_custom_name]
+    python ocr_predict_errors.py [path_of_your_docx_folder] -sn [your_custom_name]
     ```
 
 #### Jupyter Notebook - OCR-Error_detection_notebook.ipynb
