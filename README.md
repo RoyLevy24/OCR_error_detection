@@ -12,7 +12,9 @@ The full process and explanations can be found in the following jupyter notebook
 
 For you convenience we have provided a script that uses the model we trained in order to detect errors in a folder that contains **docx** files.
 So you can use this script if you are just interested in detecting errors in documents.<br>
-The script can be found in the following file: ***ocr_predict_errors.py***.<br>
+The script can be found in the following file: ***ocr_predict_errors.py***.<br><br>
+
+A summarized report can be found in the following <a href="https://github.com/RoyLevy24/OCR_error_detection/blob/main/ocr_error_detection_report.pdf"> link </a>.
 ### Setup ⚙️
 ---
 * Make sure you have python 3.6 or above on your computer.<br>
