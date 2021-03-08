@@ -26,7 +26,7 @@ A summarized report can be found in the following <a href="https://github.com/Ro
   We recommend using **Anaconda** that can be downloaded in the following link:<br>
   https://www.anaconda.com/products/individual
 
-- Clone and extract the zip of this repository, make sure you have all the files in this repository. (Repo size: 669 MB - zipped, 1.03 GB - unzipped)
+- Clone this repository or download and extract the zip of this repository (make sure you have all the files). ***Repository size:** 669 MB - zipped, 1.03 GB - unzipped*
 
 - Open up terminal in the project directory.<br>In order to setup the relevant libraries for the project use the give **_requirements_script.txt_** file by running:<br>
 
