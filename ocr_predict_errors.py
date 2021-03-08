@@ -282,16 +282,14 @@ def create_batch_size_matrices(docx_law_to_lines, tokenizer):
     return np.array(X)
 
 
-"""
+def create_batch_matrix_X(text, tokenizer):
+    """
     params: 
          text - the text of the file
          tokenizer - Use to tokenize each sentence.
     return: 
         return matrix X of (batch_size, sentence_length) with padding to the sentences.
-"""
-
-
-def create_batch_matrix_X(text, tokenizer):
+    """
     mat_x = np.zeros((batch_size, sentence_length))
 
     for i, line in enumerate(text):
